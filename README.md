@@ -9,11 +9,11 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=RodrigoFCC&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoFCC&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
-</div>
+<div>
   
   ##
  
-<div> 
+</div> 
 
 <div> 
   <a href = "mailto:rodrigofcc.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
