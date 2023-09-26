@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on improving my programming skills
-- 🌱 I’m currently learning Java <img align="center" alt="Java-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+- 🌱 I’m currently learning React <img align="center" alt="Java-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
 <div align="center">
   <a href="https://github.com/RodrigoFCC">
